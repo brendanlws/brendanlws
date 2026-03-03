@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi, I'm Brendan 👋
 
-<!--
-**brendanlws/brendanlws** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Software Engineer at **Crypto.com** | **ex-Grab**  
+Based in Singapore 🇸🇬  
 
-Here are some ideas to get you started:
+Building scalable systems, high-performance infrastructure, and intelligent automation tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+- 🏢 Former Software Engineer at **Crypto.com**
+- 🌏 Currently based in Singapore
+- 🚀 Focused on building scalable backend systems & AI-powered products
+- ⚡ Strong background in distributed systems and performance optimization
+
+---
+
+## 🛠 Technical Expertise
+
+**Languages**
+- JavaScript / TypeScript
+- Python
+- Go
+
+**Backend & Infrastructure**
+- Node.js
+- Distributed Systems
+- PostgreSQL
+- Redis
+- Docker
+- Kubernetes
+
+**Frontend**
+- React
+- Next.js
+
+**Special Interests**
+- AI Systems
+- Real-time Data Processing
+- Web3 Infrastructure
+
+---
+
+## Philosophy
+
+Simplicity scales.  
+Performance matters.  
+Build products that solve real problems.
+
+---
+
+Open to collaborations and building impactful technology.
