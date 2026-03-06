@@ -38,7 +38,6 @@ Building scalable systems, high-performance infrastructure, and intelligent auto
 **Special Interests**
 - AI Systems
 - Real-time Data Processing
-- Web3 Infrastructure
 
 ---
 
