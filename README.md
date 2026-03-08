@@ -43,7 +43,6 @@ Building scalable systems, high-performance infrastructure, and intelligent auto
 
 ## Philosophy
 
-Simplicity scales.  
 Performance matters.  
 Build products that solve real problems.
 
