@@ -1,6 +1,6 @@
 # Hi, I'm Brendan 👋
 
-Senior Software Engineer at **Crypto.com** | **ex-Grab**  
+Senior Software Engineer at  
 Based in Singapore 🇸🇬  
 
 Building scalable systems, high-performance infrastructure, and intelligent automation tools.
@@ -9,7 +9,7 @@ Building scalable systems, high-performance infrastructure, and intelligent auto
 
 ## 👨‍💻 About Me
 
-- 🏢 Former Software Engineer at **Crypto.com**
+- 🏢 Software Engineer 
 - 🌏 Currently based in Singapore
 - 🚀 Focused on building scalable backend systems & AI-powered products
 - ⚡ Strong background in distributed systems and performance optimization
