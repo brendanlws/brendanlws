@@ -1,6 +1,6 @@
 # Hi, I'm Brendan 👋
 
-Senior Software Engineer at  
+Senior Software Engineer
 Based in Singapore 🇸🇬  
 
 Building scalable systems, high-performance infrastructure, and intelligent automation tools.
